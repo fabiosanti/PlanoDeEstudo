@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fabio\\source\\repos\\GitHub\\PlanoDeEstudo\\ProjetoVenda\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56E83D42-2B39-4434-AD98-855D4AE04E66}|ProjetoVenda\\ProjetoVenda.csproj|c:\\users\\fabio\\source\\repos\\github\\planodeestudo\\projetovenda\\projetovenda\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E83D42-2B39-4434-AD98-855D4AE04E66}|ProjetoVenda\\ProjetoVenda.csproj|solutionrelative:projetovenda\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E83D42-2B39-4434-AD98-855D4AE04E66}|ProjetoVenda\\ProjetoVenda.csproj|c:\\users\\fabio\\source\\repos\\github\\planodeestudo\\projetovenda\\projetovenda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E83D42-2B39-4434-AD98-855D4AE04E66}|ProjetoVenda\\ProjetoVenda.csproj|solutionrelative:projetovenda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{537CC66E-A340-4B08-95D8-52DD1E0C7890}|PV.Servico\\PV.Servico.csproj|c:\\users\\fabio\\source\\repos\\github\\planodeestudo\\projetovenda\\pv.servico\\produtoservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{537CC66E-A340-4B08-95D8-52DD1E0C7890}|PV.Servico\\PV.Servico.csproj|solutionrelative:pv.servico\\produtoservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E652B839-50A3-4D00-B2A7-86FD621BFAD7}|PV.Entity\\PV.Entity.csproj|c:\\users\\fabio\\source\\repos\\github\\planodeestudo\\projetovenda\\pv.entity\\model\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E652B839-50A3-4D00-B2A7-86FD621BFAD7}|PV.Entity\\PV.Entity.csproj|solutionrelative:pv.entity\\model\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14D0DB3-770E-497B-8893-55D5EA7A5170}|PV.Repositorio\\PV.Repositorio.csproj|c:\\users\\fabio\\source\\repos\\github\\planodeestudo\\projetovenda\\pv.repositorio\\repositorio\\produtorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F14D0DB3-770E-497B-8893-55D5EA7A5170}|PV.Repositorio\\PV.Repositorio.csproj|solutionrelative:pv.repositorio\\repositorio\\produtorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E652B839-50A3-4D00-B2A7-86FD621BFAD7}|PV.Entity\\PV.Entity.csproj|c:\\users\\fabio\\source\\repos\\github\\planodeestudo\\projetovenda\\pv.entity\\enums\\tipoproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E652B839-50A3-4D00-B2A7-86FD621BFAD7}|PV.Entity\\PV.Entity.csproj|solutionrelative:pv.entity\\enums\\tipoproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 222,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:17:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{99b8fa2f-ab90-4f57-9c32-949f146f1914}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProdutoController.cs",
+              "DocumentMoniker": "C:\\Users\\Fabio\\source\\repos\\GitHub\\PlanoDeEstudo\\ProjetoVenda\\ProjetoVenda\\Controllers\\ProdutoController.cs",
+              "RelativeDocumentMoniker": "ProjetoVenda\\Controllers\\ProdutoController.cs",
+              "ToolTip": "C:\\Users\\Fabio\\source\\repos\\GitHub\\PlanoDeEstudo\\ProjetoVenda\\ProjetoVenda\\Controllers\\ProdutoController.cs",
+              "RelativeToolTip": "ProjetoVenda\\Controllers\\ProdutoController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T02:44:43.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Fabio\\source\\repos\\GitHub\\PlanoDeEstudo\\ProjetoVenda\\ProjetoVenda\\Program.cs",
+              "RelativeDocumentMoniker": "ProjetoVenda\\Program.cs",
+              "ToolTip": "C:\\Users\\Fabio\\source\\repos\\GitHub\\PlanoDeEstudo\\ProjetoVenda\\ProjetoVenda\\Program.cs",
+              "RelativeToolTip": "ProjetoVenda\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T02:40:32.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProdutoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Fabio\\source\\repos\\GitHub\\PlanoDeEstudo\\ProjetoVenda\\PV.Repositorio\\Repositorio\\ProdutoRepositorio.cs",
+              "RelativeDocumentMoniker": "PV.Repositorio\\Repositorio\\ProdutoRepositorio.cs",
+              "ToolTip": "C:\\Users\\Fabio\\source\\repos\\GitHub\\PlanoDeEstudo\\ProjetoVenda\\PV.Repositorio\\Repositorio\\ProdutoRepositorio.cs",
+              "RelativeToolTip": "PV.Repositorio\\Repositorio\\ProdutoRepositorio.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T02:30:11.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProdutoServico.cs",
+              "DocumentMoniker": "C:\\Users\\Fabio\\source\\repos\\GitHub\\PlanoDeEstudo\\ProjetoVenda\\PV.Servico\\ProdutoServico.cs",
+              "RelativeDocumentMoniker": "PV.Servico\\ProdutoServico.cs",
+              "ToolTip": "C:\\Users\\Fabio\\source\\repos\\GitHub\\PlanoDeEstudo\\ProjetoVenda\\PV.Servico\\ProdutoServico.cs",
+              "RelativeToolTip": "PV.Servico\\ProdutoServico.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T02:17:25.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TipoProduto.cs",
+              "DocumentMoniker": "C:\\Users\\Fabio\\source\\repos\\GitHub\\PlanoDeEstudo\\ProjetoVenda\\PV.Entity\\Enums\\TipoProduto.cs",
+              "RelativeDocumentMoniker": "PV.Entity\\Enums\\TipoProduto.cs",
+              "ToolTip": "C:\\Users\\Fabio\\source\\repos\\GitHub\\PlanoDeEstudo\\ProjetoVenda\\PV.Entity\\Enums\\TipoProduto.cs",
+              "RelativeToolTip": "PV.Entity\\Enums\\TipoProduto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T01:25:03.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\Fabio\\source\\repos\\GitHub\\PlanoDeEstudo\\ProjetoVenda\\PV.Entity\\Model\\Produto.cs",
+              "RelativeDocumentMoniker": "PV.Entity\\Model\\Produto.cs",
+              "ToolTip": "C:\\Users\\Fabio\\source\\repos\\GitHub\\PlanoDeEstudo\\ProjetoVenda\\PV.Entity\\Model\\Produto.cs",
+              "RelativeToolTip": "PV.Entity\\Model\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T01:21:32.069Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
